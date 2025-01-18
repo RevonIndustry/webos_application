@@ -1,0 +1,10 @@
+{
+  "id": "com.domain.app",
+  "version": "1.0.0",
+  "vendor": "My Company",
+  "type": "web",
+  "main": "index.html",
+  "title": "slideshow_spp",
+  "icon": "icon.png",
+  "requiredPermissions": ["filesystem.read"]
+}
